@@ -1,3 +1,2 @@
-//MO000-001.TXT ANA00000 TO ANA00001
-Clientes		NFI		nuevo archivo
-ModeloDB		CNX+		
+//MO001-002.TXT ANA00001 TO ANA00002
+Productos		NFI		nuevo archivo
